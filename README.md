@@ -65,3 +65,4 @@ It is just a file and the systems already have the tools, no additional stuff bu
 * Everything works so far and it's table
 * I did NOT look at the very deep cryptographic situation and considered salt, other chaining algorithms, better ways to get the right key length from the password and so on, but I will probably in the future. For now, this is just a better solution for your textfiles and messy sticky notes everywhere, with a good enough encryption for non-NSA people.
 * There are some little features that may be helpfull here and there, and maybe some cleaing of the code, but there are no special plans right now, I will work on them at some point when I am in the mood.
+* The code still contains some unnecessary code fragments I think that can be stripped
