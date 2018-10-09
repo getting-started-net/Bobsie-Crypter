@@ -37,6 +37,7 @@ It is just a file and the systems already have the tools, no additional stuff bu
 ## How to use
 
 ### TL;DR
+1.  ### download Bobsie-Crypter.html somewhere on your computer
 1.  ### add, change, edit as you please
 1.  ### type in password, encrypt
 1.  ### save the file (overwrite old one)
