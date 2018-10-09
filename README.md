@@ -37,16 +37,16 @@ It is just a file and the systems already have the tools, no additional stuff bu
 ## How to use
 
 ### TL;DR
-1.  #### add, change, edit as you please
-1.  #### type in password, encrypt
-1.  #### save the file (overwrite old one)
+1.  ### add, change, edit as you please
+1.  ### type in password, encrypt
+1.  ### save the file (overwrite old one)
 
 ### Steps
 
 1. Use the **password** field in the top left corner, to either encrypt or decrypt the table with your passwords. You can just hit enter when you are in the textfield, it will automatically toggle.
 1. Delete or edit entries with the two buttons "delete" and "edit" in the last column.
 1. Add new entries by filling the input fields "category 1", "category 2", etc. and press on add.
-1. # With your Entries in the table, just type a password, press encrypt or hit enter, and save the file! Overwrite the old!
+1. ### With your Entries in the table, just type in a password in the password field, press encrypt or hit enter and save the file (ctrl+s)! Overwrite the old file!
 1. When you reopen the file, you see the encrypted content. type your password in the password field and hit enter or press decrypt, to see your list again.
 
 ### Tips & Hints
