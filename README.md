@@ -71,4 +71,4 @@ It is just a file and the systems already have the tools, no additional stuff bu
 
 ## License
 
-This Software (file) is published under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+This Software (file) is published under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
