@@ -23,3 +23,37 @@ It is just a file and the systems already have the tools, no additional stuff bu
 * New entries can be **inserted directly** within the file itself.
 * **Filter function** to just show what contains a string.
 * **Edit** and **delete** existing entries.
+
+### Details
+* Dark Theme
+* Filter function instantly filters on char input.
+* Editing entries are saved when pressing enter.
+* Auto-selects input fields depending on what you do and did. For easy navigation.
+* Includes the AES library from https://github.com/ricmoo/aes-js and the SHA-256 library from https://github.com/emn178/js-sha256 implicitly and not through the include of other files.
+* Use 'f' to focus the filter input, 'p' to focus password and '1' to focus the first input field to add a new entry.
+* show the encrypted data in hex in the file when not decrypted.
+* Copy cell-content on clicking them.
+
+## How to use
+
+### TL;DR
+1.  #### add, change, edit as you please
+1.  #### type in password, encrypt
+1.  #### save the file (overwrite old one)
+
+### Steps
+
+1. Use the **password** field in the top left corner, to either encrypt or decrypt the table with your passwords. You can just hit enter when you are in the textfield, it will automatically toggle.
+1. Delete or edit entries with the two buttons "delete" and "edit" in the last column.
+1. Add new entries by filling the input fields "category 1", "category 2", etc. and press on add.
+1. # With your Entries in the table, just type a password, press encrypt or hit enter, and save the file! Overwrite the old!
+1. When you reopen the file, you see the encrypted content. type your password in the password field and hit enter or press decrypt, to see your list again.
+
+### Tips & Hints
+* You can easily navigate with **TAB**
+* In the password field, **ENTER** will toggle the de-/encryption depending on the current state
+* Use 'f' to select filter, 'p' to select password field and '1' for the first input field to add a new entry (works only when you are not in an input field already)
+* ## Remember, the
+
+### Danger
+* You can save 
