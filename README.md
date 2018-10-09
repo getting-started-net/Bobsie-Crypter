@@ -2,11 +2,11 @@
 
 ## What is this
 
-An html file containg all the html, css and javascript to be a little username / password (and other information) storage system that is AES encrypted.
+An html file containg all the html, css and javascript to be a little username / password / credentials (and other information) storage system that is AES encrypted.
 
 ## Why?
 
-You know how you have all kind of passwords or login information digital and analog spread all over different places? Me too, so I created this here.
+You know how you have all kind of credentials or other login information digital and analog spread all over different places? Me too, so I created this here.
 
 ### Why html?
 
