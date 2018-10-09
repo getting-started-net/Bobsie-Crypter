@@ -50,10 +50,18 @@ It is just a file and the systems already have the tools, no additional stuff bu
 1. When you reopen the file, you see the encrypted content. type your password in the password field and hit enter or press decrypt, to see your list again.
 
 ### Tips & Hints
+* If you messed something up, just hit **F5** to "reset" the file to the last state.
 * You can easily navigate with **TAB**
 * In the password field, **ENTER** will toggle the de-/encryption depending on the current state
 * Use 'f' to select filter, 'p' to select password field and '1' for the first input field to add a new entry (works only when you are not in an input field already)
-* ## Remember, the
 
 ### Danger
-* You can save 
+* ![#f03c15]You can save the file also unencrypted, but do it with care.`#f03c15`
+* Don't visit bad websites with sensitive information in your clipboard! (copied)
+* Don't forget your master password! The file cannot be restored in any other way. (but brute-forcing of course)
+* The danger here 
+
+## ToDo, Bugs & Technical Stuff
+* Everything works so far and it's table
+* I did NOT look at the very deep cryptographic situation and considered salt, other chaining algorithms, better ways to get the right key length from the password and so on, but I will probably in the future. For now, this is just a better solution for your textfiles and messy sticky notes everywhere, with a good enough encryption for non-NSA people.
+* There are some little features that may be helpfull here and there, and maybe some cleaing of the code, but there are no special plans right now, I will work on them at some point when I am in the mood.
