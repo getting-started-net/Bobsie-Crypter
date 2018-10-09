@@ -56,7 +56,7 @@ It is just a file and the systems already have the tools, no additional stuff bu
 * Use 'f' to select filter, 'p' to select password field and '1' for the first input field to add a new entry (works only when you are not in an input field already)
 
 ### Danger
-* ![#f03c15]You can save the file also unencrypted, but do it with care.`#f03c15`
+* ``` - You can save the file also unencrypted, but do it with care. ```
 * Don't visit bad websites with sensitive information in your clipboard! (copied)
 * Don't forget your master password! The file cannot be restored in any other way. (but brute-forcing of course)
 * The danger here 
