@@ -68,6 +68,7 @@ It is just a file and the systems already have the tools, no additional stuff bu
 * There are some little features that may be helpfull here and there, and maybe some cleaing of the code, but there are no special plans right now, I will work on them at some point when I am in the mood.
 * The code still contains some unnecessary code fragments I think that can be stripped
 * I stuffed this together in one day, so sorry for the bad code layout and stuff, but I just wanted it to work properly first before it looks good
+* ToDo: Adding textarea or something to easyily paste old encrypted data to new version of the file
 
 ## License
 
