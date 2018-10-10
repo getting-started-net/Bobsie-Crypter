@@ -11,7 +11,7 @@ You know how you have all kind of credentials or other login information digital
 ### Why html?
 
 Compatibility of course. Everybody has a browser and you do not need any additional plugin or software and it is compatible with many different systems (not mobile optimized at the moment though).
-It is just a file and the systems already have the tools, no additional stuff but a browsers and maybe a texteditor for nerd stuff.
+It is just a file and the systems already have the tools, no additional stuff needed but a browsers and maybe a texteditor for nerd stuff.
 
 ## Features
 
