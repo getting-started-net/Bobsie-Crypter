@@ -60,7 +60,7 @@ It is just a file and the systems already have the tools, no additional stuff ne
 * You can save the file also unencrypted, but do it with care.
 * Don't visit bad websites with sensitive information in your clipboard! (copied)
 * Don't forget your master password! The file cannot be restored in any other way. (but brute-forcing of course)
-* The danger here 
+* **It is not yet deeply reviewed in a cryptographic way, but it does its job**
 
 ## ToDo, Bugs & Technical Stuff
 * Everything works so far and it's stable. I use it.
