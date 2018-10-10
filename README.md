@@ -16,10 +16,10 @@ It is just a file and the systems already have the tools, no additional stuff ne
 ## Features
 
 ### General
-* **All in one file**
-* **No extra software needed (just a browser)**
-* Table with 6 cells for one username:password entrie and descriptions or whatever you want
-* Direct **AES de- and encryption**
+* **All in one file**.
+* **No extra software needed (just a browser)**.
+* Table with 6 cells for one username:password entrie and descriptions or whatever you want.
+* Direct **AES de- and encryption**.
 * New entries can be **inserted directly** within the file itself.
 * **Filter function** to just show what contains a string.
 * **Edit** and **delete** existing entries.
@@ -37,10 +37,10 @@ It is just a file and the systems already have the tools, no additional stuff ne
 ## How to use
 
 ### TL;DR
-1.  ### download Bobsie-Crypter.html somewhere on your computer
-1.  ### add, change, edit as you please
-1.  ### type in password, encrypt
-1.  ### save the file (overwrite old one)
+1.  ### download Bobsie-Crypter.html somewhere on your computer.
+1.  ### add, change, edit as you please.
+1.  ### type in password, encrypt.
+1.  ### save the file (overwrite old one).
 
 ### Steps
 
@@ -52,24 +52,24 @@ It is just a file and the systems already have the tools, no additional stuff ne
 
 ### Tips & Hints
 * If you messed something up, just hit **F5** to "reset" the file to the last state.
-* You can easily navigate with **TAB**
-* In the password field, **ENTER** will toggle the de-/encryption depending on the current state
-* Use 'f' to select filter, 'p' to select password field and '1' for the first input field to add a new entry (works only when you are not in an input field already)
+* You can easily navigate with **TAB**.
+* In the password field, **ENTER** will toggle the de-/encryption depending on the current state.
+* Use 'f' to select filter, 'p' to select password field and '1' for the first input field to add a new entry. (works only when you are not in an input field already)
 
 # Danger
 * You can save the file also unencrypted, but do it with care.
-* Don't visit bad websites with sensitive information in your clipboard! (copied)
-* Don't forget your master password! The file cannot be restored in any other way. (but brute-forcing of course)
-* **It is not yet deeply reviewed in a cryptographic way, but it does its job**
+* Don't visit bad websites with sensitive information in your clipboard! (copied).
+* Don't forget your master password! The file cannot be restored in any other way. (but brute-forcing of course).
+* **It is not yet deeply reviewed in a cryptographic way, but it does its job**.
 
 ## ToDo, Bugs & Technical Stuff
 * Everything works so far and it's stable. I use it.
 * I did **NOT** look at the very deep cryptographic situation and considered salt, other chaining algorithms, better ways to get the right key length from the password and so on, but I will probably in the future. For now, this is just a better solution for your textfiles and messy sticky notes everywhere, with a good enough encryption for non-NSA people.
 * There are some little features that may be helpfull here and there, and maybe some cleaing of the code, but there are no special plans right now, I will work on them at some point when I am in the mood.
-* The code still contains some unnecessary code fragments I think that can be stripped
-* I stuffed this together in one day, so sorry for the bad code layout and stuff, but I just wanted it to work properly first before it looks good
-* ToDo: Adding textarea or something to easyily paste old encrypted data to new version of the file
+* The code still contains some unnecessary code fragments that can be stripped.
+* I stuffed this together in one day, so sorry for the bad code layout and stuff, but I just wanted it to work properly first before it looks good.
+* ToDo: Adding textarea or something to easyily paste old encrypted data to new version of the file.
 
 ## License
 
-This Software (file) is published under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+This Software (file) is published under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
