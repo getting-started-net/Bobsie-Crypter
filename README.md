@@ -13,6 +13,13 @@ You know how you have all kind of credentials or other login information digital
 Compatibility of course. Everybody has a browser and you do not need any additional plugin or software and it is compatible with many different systems (not mobile optimized at the moment though).
 It is just a file and the systems already have the tools, no additional stuff needed but a browsers and maybe a texteditor for nerd stuff.
 
+## How secure is this?
+
+More secure than the unencrypted plaintext textfiles you have lying around on your computer, but less secure than specific complex well reasoned tools programmed specifically for that purpose.
+This is still vulnerable to attack vectors like keyloggers or big bruteforce attempts.
+It is meant to be for private use instead of your plaintext files and maybe a little more, but do not use it of course when you have sensitive company information on computers or servers you do not trust.
+If you are just a "normal person" and take at least a little care on what you do with your computers and clouds, this should be fine.
+
 ## Features
 
 ### General
