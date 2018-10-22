@@ -62,6 +62,7 @@ If you are just a "normal person" and take at least a little care on what you do
 * You can easily navigate with **TAB**.
 * In the password field, **ENTER** will toggle the de-/encryption depending on the current state.
 * Use 'f' to select filter, 'p' to select password field and '1' for the first input field to add a new entry. (works only when you are not in an input field already)
+* When you save the file in chrome, in the file dialog make sure to select the option "complete website" and not the other one (just html).
 
 # Danger
 * You can save the file also unencrypted, but do it with care.
